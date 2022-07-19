@@ -1,0 +1,19 @@
+body{
+    background-color: #ded7d7;
+}
+table,thead,td{
+border: 1px solid rgb(0, 149, 97) ;
+}
+
+h2{
+    text-align: center;
+    color: yellow;
+}
+.logo{
+    width: 40;
+    height: 40;
+}
+/*h1{
+    text-align: center;
+    display: inline-block;
+}
