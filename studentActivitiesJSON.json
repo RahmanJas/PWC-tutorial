@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "description": "Having the induction session",
+        "isDone": true
+    },
+    {
+        "id":2,
+        "description": "Starting the Javascript,HTML, CSS, React class",
+        "isDone": false
+    },
+    {
+        "id":3,
+        "description": "Starting the c#.NET classes",
+        "isDone" : false
+    }
+]
+
